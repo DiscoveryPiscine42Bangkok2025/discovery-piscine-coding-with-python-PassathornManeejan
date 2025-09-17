@@ -1,4 +1,4 @@
-password = "Python is awesome"
+password = "424242"
 user_input = input()
 if user_input == password:
     print("ACCESS GRANTED")
